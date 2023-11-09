@@ -1,2 +1,2 @@
 # balsam-snippets
-Defu
+Default snippets repository
